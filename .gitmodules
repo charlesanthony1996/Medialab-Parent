@@ -1,0 +1,15 @@
+[submodule "AI_API-Wrapper"]
+	path = AI_API-Wrapper
+	url = https://github.com/charlesanthony1996/AI_API-Wrapper.git
+[submodule "AI_Server"]
+	path = AI_Server
+	url = https://github.com/charlesanthony1996/AI_Server.git
+[submodule "AI_Filter"]
+	path = AI_Filter
+	url = https://github.com/charlesanthony1996/AI_Filter.git
+[submodule "AI_Database"]
+	path = AI_Database
+	url = https://github.com/charlesanthony1996/AI_Database.git
+[submodule "AI_Frontend"]
+	path = AI_Frontend
+	url = https://github.com/charlesanthony1996/AI_Frontend.git
